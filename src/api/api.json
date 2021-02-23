@@ -1,0 +1,6 @@
+{
+    "addr": "ip",
+    "port": 6060,
+    "posturl": "toggle",
+    "statusurl": "status"
+}
