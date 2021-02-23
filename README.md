@@ -6,7 +6,7 @@ An API controlled by a Discord bot
 - python3 api.py
 
 ## activate Discord Bot
-- dotnet run src/dic/Bot.cs
+- dotnet run src/disc/Bot.cs
 
 ## Notes
 - Make sure you added your discord bot token in the <code>src/disc/config.json</code> file
